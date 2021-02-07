@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #3a3a3a;
+}
+.fa-apple{
+    font-size: 25px;
+}
+.racial{
+    background-image: url(img/Racial-equity-apple-clone-image.jpg);
+    height: 536px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
