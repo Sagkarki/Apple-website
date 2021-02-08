@@ -10,3 +10,20 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.watch-section {
+    background-color: black;
+    position: relative;
+  }
+  .red-img {
+    position: absolute;
+    top: -5px;
+    left: -10px;
+    z-index: 10;
+  }
+  .apple-icon {
+    font-size: 35px;
+  }
+  
+.homepod-mini-section{
+    background-color: #fafafa;
+}
